@@ -1,2 +1,2 @@
-# html-css
-a basic program of html
+# Html-Css
+A basic program of html
